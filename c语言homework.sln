@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c语言homework", "c语言homework\c语言homework.vcxproj", "{D3AB8ADD-8339-49A6-8020-1749A7AE8129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AB8ADD-8339-49A6-8020-1749A7AE8129}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3AB8ADD-8339-49A6-8020-1749A7AE8129}.Debug|Win32.Build.0 = Debug|Win32
+		{D3AB8ADD-8339-49A6-8020-1749A7AE8129}.Release|Win32.ActiveCfg = Release|Win32
+		{D3AB8ADD-8339-49A6-8020-1749A7AE8129}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
